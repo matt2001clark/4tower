@@ -1,5 +1,5 @@
 
-PROJECT TITLE: 4tower
-PURPOSE OF PROJECT: a 4 tower of  hanoi
+PROJECT TITLE: tower
+PURPOSE OF PROJECT: a tower of  hanoi project
 VERSION or DATE: final
 AUTHORS: Matthew Clark
